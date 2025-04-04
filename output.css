@@ -2599,6 +2599,11 @@
       flex-wrap: wrap;
     }
   }
+  .lg\:w-\[410px\] {
+    @media (width >= 64rem) {
+      width: 410px;
+    }
+  }
   .lg\:w-\[750px\] {
     @media (width >= 64rem) {
       width: 750px;
