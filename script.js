@@ -169,7 +169,7 @@ const ApiAyatQuran = async (suratKe) => {
         </div>
           
         <div class="flex items-center h- full">
-          <p class="text-end text-[22px]">${item.arab}</p>
+          <p class="text-end text-[20px]">${item.arab}</p>
         </div>
         </div>
         <div class="w-full flex " >
